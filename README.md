@@ -8,7 +8,7 @@ A kit for users who are bored with their same desktop wallpaper but don't wanna 
 - Wallpaper is changed even if the PC is not connected to internet.
 - Images are downloaded from **unsplash**.
 
-## Download
+#### Download
 
 - **Clone the repository**
 
@@ -17,7 +17,7 @@ git clone https://github.com/Mukarr/SplashApp.git
 cd SplashApp
 ```
 
-###### INSTALL
+####Install
 Through `cd` command (in general), go to the folder where `splash.sh` is. Then, run the following commands:
 
 ```bash
