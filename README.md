@@ -1,10 +1,10 @@
 # SplashApp
-###Script to set theme-based desktop wallpapers using [Unsplash API](https://source.unsplash.com)
+###Script to set theme-based desktop slideshow using [Unsplash API](https://source.unsplash.com)
 
 A kit for users who are bored with their same desktop wallpaper but don't wanna do a new download daily.
 - A well-guided interface to allow user to specify his/her preferences.
 - User specifies the theme for wallpapers.
-- User specifies the time interval between successive updations.
+- User specifies the time interval for the slideshow.
 - Wallpaper is changed even if the PC is not connected to internet.
 - Images are downloaded from **unsplash**.
 
